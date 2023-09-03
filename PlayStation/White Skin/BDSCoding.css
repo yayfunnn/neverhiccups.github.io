@@ -1,0 +1,34 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(BDSbase.png);
+}
+
+.ds4.white.disconnected {
+    background: url(BDSdisconnected.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(BDStriggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(BDSbumper.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(BDSstart.png);
+}
+
+.ds4.white .button {
+    background-image: url(BDSface.png);
+}
+
+.ds4.white .stick {
+    background-image: url(BDSsticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(BDSdpad.png);
+}
+
+/*END PS4 White Controller Styling*/
